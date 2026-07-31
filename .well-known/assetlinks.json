@@ -1,1 +1,1 @@
-﻿[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.fuad07_cell.twa","sha256_cert_fingerprints":["DB:38:D4:5F:DD:CD:D6:F3:39:6A:58:22:9E:4C:42:2B:BA:57:A6:72:A6:B5:BE:84:C5:D1:33:2D:93:74:9B:F3"]}}]
+[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.fuad07_cell.twa","sha256_cert_fingerprints":["84:90:14:E5:C5:35:52:D9:7D:62:2D:F9:68:78:8C:6F:1B:3B:10:58:75:8F:A9:22:12:57:85:32:66:BD:EE:96"]}}]
